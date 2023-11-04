@@ -1,0 +1,65 @@
+<svg
+  id={id}
+  xmlns="http://www.w3.org/2000/svg"
+  width={width}
+  height={height}
+  version="1.1"
+  viewBox={"0 0 150 150"}
+>
+  <g display="inline">
+    <g
+      fill="#a3a3a3"
+      fillOpacity="1"
+      transform="matrix(1.08083 0 0 1.08083 -5.901 -5.582)"
+    >
+      <path
+        d="M81.342 114.068q-12.977 0-24.1-6.673-11.123-6.798-17.673-18.168-6.55-11.494-6.55-24.718t6.427-24.594q6.55-11.37 17.55-18.044 11.122-6.797 24.346-6.797 17.303 0 30.527 11 1.112.864 1.112 2.47 0 1.484-.989 2.72-.988 1.112-2.719 1.112-1.36 0-3.09-1.483-9.392-8.404-24.84-8.404-10.877 0-20.393 5.809-9.393 5.808-14.954 15.572-5.562 9.64-5.562 20.64 0 11.37 5.438 21.133 5.562 9.64 14.954 15.325 9.517 5.685 20.516 5.685 14.584 0 25.583-9.022.865-.618 1.854-.618 1.483 0 2.595 1.112 1.236 1.113 1.236 2.72 0 1.606-.865 2.595-10.629 10.628-30.403 10.628z"
+        style={{
+          lineHeight: "1.25",
+          InkscapeFontSpecification: "Comfortaa, Light",
+          WebkitTextAlign: "center",
+          textAlign: "center",
+        }}
+        stroke="none"
+        strokeDasharray="none"
+        strokeMiterlimit="4"
+        strokeOpacity="1"
+        strokeWidth="0.219"
+        display="inline"
+        fontFamily="Comfortaa"
+        fontSize="40"
+        fontWeight="300"
+        textAnchor="middle"
+      ></path>
+      <g
+        fontSize="17.055"
+        transform="matrix(1.95943 0 0 1.39273 -278.565 -35.947)"
+      >
+        <path
+          d="M166.02 116.018h6.77v6.033h-6.77z"
+          style={{ lineHeight: "1.25" }}
+          strokeWidth="0.635"
+          display="inline"
+        ></path>
+        <path
+          d="M176.797 116.017h2.65v6.034h-2.65z"
+          style={{ lineHeight: "1.25" }}
+          strokeWidth="0.511"
+          display="inline"
+        ></path>
+        <path
+          d="M183.48 116.018h6.77v6.033h-6.77z"
+          style={{ lineHeight: "1.25" }}
+          strokeWidth="0.635"
+          display="inline"
+        ></path>
+        <path
+          d="M194.256 116.017h2.65v6.034h-2.65z"
+          style={{ lineHeight: "1.25" }}
+          strokeWidth="0.511"
+          display="inline"
+        ></path>
+      </g>
+    </g>
+  </g>
+</svg>
